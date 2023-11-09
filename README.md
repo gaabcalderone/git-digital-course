@@ -3,4 +3,5 @@
 ##GRAVANDO MUDANÇASS NO REPOSITORIO
 
 #salvando modificações no git
-*Continuando os estudos!
+*USO DO COMANDO GIT RESTORE
+*COMANDO GIT PUSH
